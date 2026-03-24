@@ -1,0 +1,9 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "RecordingLabelsDB",
+      "driver": "SQLite",
+      "database": "${workspaceFolder}/recording_labels.db"
+    }
+  ]
+}
